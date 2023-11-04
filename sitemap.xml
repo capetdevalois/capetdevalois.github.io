@@ -11,33 +11,6 @@
   </url>
   
   <url>
-    <loc>https://capetdevalois.github.io/2023/10/28/About-Geologic-time-scale/</loc>
-    
-    <lastmod>2023-11-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://capetdevalois.github.io/2023/10/14/Cenozoic/</loc>
-    
-    <lastmod>2023-10-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://capetdevalois.github.io/2023/10/21/Archean-Eon-Hadean/</loc>
-    
-    <lastmod>2023-10-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://capetdevalois.github.io/tags/index.html</loc>
     
     <lastmod>2023-08-23</lastmod>
@@ -65,13 +38,6 @@
 
   
   <url>
-    <loc>https://capetdevalois.github.io/tags/%E6%B8%A3%E7%BF%BB/</loc>
-    <lastmod>2023-11-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://capetdevalois.github.io/tags/%E5%8E%86%E5%8F%B2/</loc>
     <lastmod>2023-11-04</lastmod>
     <changefreq>weekly</changefreq>
@@ -79,7 +45,7 @@
   </url>
   
   <url>
-    <loc>https://capetdevalois.github.io/tags/%E5%9C%B0%E7%90%86/</loc>
+    <loc>https://capetdevalois.github.io/tags/%E6%B8%A3%E7%BF%BB/</loc>
     <lastmod>2023-11-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
