@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://capetdevalois.github.io/2023/10/28/about-Geologic-time-scale/</loc>
+    <loc>https://capetdevalois.github.io/2023/09/09/Geologic-time-scale/</loc>
     
     <lastmod>2023-11-04</lastmod>
     
@@ -11,9 +11,9 @@
   </url>
   
   <url>
-    <loc>https://capetdevalois.github.io/2023/09/09/Geologic-time-scale/</loc>
+    <loc>https://capetdevalois.github.io/2023/10/28/About-Geologic-time-scale/</loc>
     
-    <lastmod>2023-10-28</lastmod>
+    <lastmod>2023-11-04</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -65,13 +65,6 @@
 
   
   <url>
-    <loc>https://capetdevalois.github.io/tags/%E5%8E%86%E5%8F%B2/</loc>
-    <lastmod>2023-11-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://capetdevalois.github.io/tags/%E6%B8%A3%E7%BF%BB/</loc>
     <lastmod>2023-11-04</lastmod>
     <changefreq>weekly</changefreq>
@@ -79,7 +72,7 @@
   </url>
   
   <url>
-    <loc>https://capetdevalois.github.io/tags/%E5%9B%BE%E8%A1%A8/</loc>
+    <loc>https://capetdevalois.github.io/tags/%E5%8E%86%E5%8F%B2/</loc>
     <lastmod>2023-11-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -87,6 +80,13 @@
   
   <url>
     <loc>https://capetdevalois.github.io/tags/%E5%9C%B0%E7%90%86/</loc>
+    <lastmod>2023-11-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://capetdevalois.github.io/tags/%E5%9B%BE%E8%A1%A8/</loc>
     <lastmod>2023-11-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
