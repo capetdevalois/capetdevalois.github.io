@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://capetdevalois.github.io/2023/11/04/Plate-tectonics/</loc>
+    <lastmod>2023-11-11</lastmod>
+  </url>
+  <url>
     <loc>https://capetdevalois.github.io/2023/09/09/Geologic-time-scale/</loc>
     <lastmod>2023-11-11</lastmod>
   </url>
@@ -14,10 +18,6 @@
   </url>
   <url>
     <loc>https://capetdevalois.github.io/2023/10/28/About-Geologic-time-scale/</loc>
-    <lastmod>2023-11-11</lastmod>
-  </url>
-  <url>
-    <loc>https://capetdevalois.github.io/2023/11/04/Plate-tectonics/</loc>
     <lastmod>2023-11-11</lastmod>
   </url>
 </urlset> 
