@@ -7,11 +7,11 @@ const ap = new APlayer({
     lrcType: 0,
     audio: [
         {
-            name: "砕月",
-            artist: "黄昏フロンティア / 上海アリス幻樂団",
-            url: "http://music.163.com/song/media/outer/url?id=22765993.mp3",
+            name: "騎士王の誇り",
+            artist: "川井憲次",
+            url: "https://music.163.com/#/song?id=448119",
             cover:
-                "http://p2.music.126.net/wB7_-c1VUUN2Zg-_CgdeYg==/851021999922132.jpg",
+                "http://p1.music.126.net/U0Tf2ESHBauv2F9t1PgEZA==/109951163339713541.jpg",
         }
     ]
 })
